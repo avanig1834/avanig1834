@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avanig1834
+- 👋 Hi, I’m Avani Gajallewar
 - 👀 I’m interested in exploring new things.
 - 🌱 I’m currently learning Web Development.
 
