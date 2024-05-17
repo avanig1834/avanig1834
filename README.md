@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/g_avani1834" target="blank"><img src="https://img.shields.io/twitter/follow/g_avani1834?logo=twitter&style=for-the-badge" alt="g_avani1834" /></a> </p>
 
-- 🔭 I’m currently working on [Applicant Tracking System Project](https://github.com/avanig1834/Applicant-Tracking-System-Minor-Project)
-
 - 🌱 I’m currently learning **Web Development and MATLAB**
 
 - 📫 How to reach me **avanigajallewar1834@gmail.com**
