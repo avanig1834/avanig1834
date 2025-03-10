@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/g_avani1834" target="blank"><img src="https://img.shields.io/twitter/follow/g_avani1834?logo=twitter&style=for-the-badge" alt="g_avani1834" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development and VLSI**
+- 🌱 I’m currently learning **Verilog HDl and RTL Design**
 
 - 📫 How to reach me **avanigajallewar1834@gmail.com**
 
