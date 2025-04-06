@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avani Gajallewar</h1>
 <h3 align="center">A passionate Electronics Engineer from India</h3>
-<img align="right" alt="img" width="400" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
+<img align="right" alt="img" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avanig1834&label=Profile%20views&color=0e75b6&style=flat" alt="avanig1834" /> </p>
 
 <p align="left"> <a href="https://twitter.com/g_avani1834" target="blank"><img src="https://img.shields.io/twitter/follow/g_avani1834?logo=twitter&style=for-the-badge" alt="g_avani1834" /></a> </p>
