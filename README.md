@@ -5,7 +5,7 @@
 <img align="right" alt="img" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 <p align="left"> <a href="https://twitter.com/g_avani1834" target="blank"><img src="https://img.shields.io/twitter/follow/g_avani1834?logo=twitter&style=for-the-badge" alt="g_avani1834" /></a> </p>
 
-- 🔭 I’m currently working on [LLM-VeriBench](https://github.com/avanig1834/LLM-VeriBench)
+- 🔭 I’m currently working on Hardware Security Primitives Designing.)
 
 - 🌱 I’m currently learning **Verilog HDL**
 
